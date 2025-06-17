@@ -18,15 +18,16 @@ struct LoginView: View {
                     .environmentObject(viewModel)
             } else {
                 ZStack {
-                    Image("spotify_logo")
-                        .resizable()
-                        .scaledToFit()
+                    Text("🎧 Spotify")
+                        .font(.system(size: 60, weight: .bold))
+                        .foregroundStyle(Color.spotifyGreen)
                     Text("Clone")
                         .font(.headline)
                         .fontWeight(.bold)
                         .foregroundStyle(Color.spotifyGreen)
-                        .offset(x: 100, y: 50)
+                        .offset(x: 90, y: 50)
                 }
+                
                 VStack {
                     Button {
                         viewModel.login()
