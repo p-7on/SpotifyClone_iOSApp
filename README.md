@@ -22,7 +22,7 @@ This is a demo project that implements a simplified Spotify-like music player us
 
 📸📱 Screenshots
 
-<img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/homescreen.png?raw=true" width="250" /> <img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/login_oauth.png?raw=true" width="250" /> <img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/playback.png?raw=true" width="250" /> 
+<img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/b04ffc1e2331e956a0c1ae97d192ae494807f5c8/Screenshots/loginview.png?raw=true" width="250" /> <img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/login_oauth.png?raw=true" width="250" /> <img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/playback.png?raw=true" width="250" /> 
 
 <img src="https://github.com/p-7on/SpotifyClone_iOSApp/blob/105f12cbc6dae505f375358570603f78909b4e93/Screenshots/no_song_playing.png?raw=true" width="250" />
 
